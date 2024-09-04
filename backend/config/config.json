@@ -1,0 +1,28 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "1234",
+    "database": "Alina_db",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+  },
+  "test": {
+    "username": "Alina",
+    "password": 1234,
+    "database": "Alina_db",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+
+  },
+  "production": {
+    "username": "Alina",
+    "password": 1234,
+    "database": "Alina_db",
+    "host": "localhost",
+    "dialect": "postgres",
+    "port": 5432
+
+  }
+}
