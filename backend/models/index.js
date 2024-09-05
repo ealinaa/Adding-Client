@@ -22,7 +22,7 @@ fs
     return (
       file.indexOf('.') !== 0 &&
       file !== basename &&
-      file.slice(-3) === '.js' &&
+      file.slice(-3) === '.ts' &&
       file.indexOf('.test.js') === -1
     );
   })
